@@ -46,8 +46,7 @@
 在当前目录执行：
 
 ```bash
-cd /home/zwy/script
-sudo ./bbr_fq_tuning.sh
+bash <(wget -qO- https://raw.githubusercontent.com/Steve0723/bbr_fq/refs/heads/main/bbr_fq_tuning.sh)
 ```
 
 交互流程：
